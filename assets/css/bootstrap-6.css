@@ -11746,7 +11746,8 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .theme-progress-bar-dark {
-  background-color: rgb(255, 81, 0);
+  background: linear-gradient(to  right, rgb(255, 152, 105), rgb(255, 81, 0));
+  color: rgba(255, 255, 255, 0.9);
 }
 
 .resume-wrapper {
